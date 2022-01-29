@@ -4,7 +4,5 @@ I currently lead the Partner Engineering team at Uber focused on Direct.  The te
 
 ![DaaS Jobs](https://user-images.githubusercontent.com/408705/105610539-eed54880-5d64-11eb-9bdd-76f208517031.jpg)
 
-I really enjoy working with customers and partners to make new things or make existing things work together to be more awesome.
-
 📫 How to reach me: https://www.linkedin.com/in/davewmurphy/
 
